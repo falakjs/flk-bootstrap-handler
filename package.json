@@ -1,0 +1,17 @@
+{
+    "name": "flk-bootstrap-handler",
+    "description": "Bootstrap handler.",
+    "version": "0.1.3",
+    "dependencies": {
+        "popper.js": "^1.15.0",
+        "bootstrap": "^4.3.1"
+    },
+    "author": {
+        "email": "hassanzohdy@gmail.com",
+        "name": "Hasan Zohdy"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/falakjs/flk-bootstrap-handler"
+    }
+}
